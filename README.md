@@ -10,4 +10,4 @@ docker-compose up -d
 ```
 
 ## Fork
-forked from (Srar/telegram-socks5-proxy|https://github.com/Srar/telegram-socks5-proxy)
+forked from [Srar/telegram-socks5-proxy](https://github.com/Srar/telegram-socks5-proxy)
