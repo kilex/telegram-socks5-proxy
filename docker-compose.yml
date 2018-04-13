@@ -1,0 +1,10 @@
+version: "2"
+services:
+  telegramproxy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports: [
+      "1080:1080",
+      ]

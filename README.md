@@ -1,9 +1,9 @@
 # Telegram Socks5 Proxy
-限定只允许Telegram网段通过的Socks5代理
+Telegram socks5 proxy
 
-## 如何使用
+## Start
 ```
-git clone https://github.com/Srar/Telegram-Socks5-Proxy.git
-npm install
-node server.js --port 1080
+git clone https://github.com/kilex/telegram-socks5-proxy.git
+cd telegram-socks5-proxy
+docker-compose up -d
 ```
